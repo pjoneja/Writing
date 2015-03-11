@@ -10,3 +10,4 @@ A collection of published pieces written by me
 5. [Computer Science Open Forum](http://pioneer.cooper.edu/2014/12/06/computer-science-open-forum/) - *The Cooper Pioneer* - December 5, 2014
 6. Speech at the Stakeholder's Breakfast - *Jakarta International School* - November 9, 2013
 7. [How Shakespeare Works](http://pioneer.cooper.edu/2015/02/21/shakespeare-works/) - *The Cooper Pioneer* - February 23, 2015
+8. [Student Rep to the Board of Trustees](http://pioneer.cooper.edu/2015/03/08/student-representative-board-trustees/) - *The Cooper Pioneer* - March 9, 2015
