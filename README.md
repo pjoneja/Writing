@@ -12,3 +12,4 @@ A collection of published pieces written by me
 7. [How Shakespeare Works](http://pioneer.cooper.edu/2015/02/21/shakespeare-works/) - *The Cooper Pioneer* - February 23, 2015
 8. [Student Rep to the Board of Trustees](http://pioneer.cooper.edu/2015/03/08/student-representative-board-trustees/) - *The Cooper Pioneer* - March 9, 2015
 9. [Interview with Malcolm King (EE'97), Board Trustee](http://pioneer.cooper.edu/2015/04/11/interview-malcolm-king-ee-97-board-trustee/) - *The Cooper Pioneer* - April 11, 2015
+10. [Proposed Overload Charge](http://pioneer.cooper.edu/2015/04/15/proposed-overload-charge/) - *The Cooper Pioneer* - April 11, 2015 --> edited by me
