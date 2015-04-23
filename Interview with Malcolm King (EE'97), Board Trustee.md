@@ -64,9 +64,9 @@ In response to the article in the Wall Street Journal: I vehemently disagree tha
 
 **TCP:** The last question is a thought experiment. You are to run the school. The stipulations are as follows:
 
--The year is 2012, but instead of years of crippling deficits, the school’s budget is roughly balanced, giving you approximately $30 million annually.
--You have at your disposal all of the endowment as it stood, before property started to be sold off. You also have the Foundation and New Academic Buildings.
--The school must be tuition-free.
+- The year is 2012, but instead of years of crippling deficits, the school’s budget is roughly balanced, giving you approximately $30 million annually.
+- You have at your disposal all of the endowment as it stood, before property started to be sold off. You also have the Foundation and New Academic Buildings.
+- The school must be tuition-free.
 
 What does this school look like? What is it moving towards? (In other words, what is your personal, idealized version of Cooper Union?)
 
