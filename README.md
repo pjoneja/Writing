@@ -1,7 +1,7 @@
 # Writing
 A collection of published pieces written by me
 
-1. Speech at the Stakeholder's Breakfast - *Jakarta International School* - November 9, 2013
+1. [Speech at the Stakeholder's Breakfast](https://github.com/pjoneja/Writing/blob/master/Speech%20at%20Stakeholder's%20Breakfast.md) - *Jakarta International School* - November 9, 2013
 2. [Extended Essay: Flood Risk Management](https://github.com/pjoneja/Writing/blob/master/Extended%20Essay%20-%20Flood%20Risk%20Management.pdf) - *Jakarta International School* - May 2014
 
 ### Writer at *The Pioneer* 
