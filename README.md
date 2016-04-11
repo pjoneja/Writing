@@ -19,7 +19,14 @@ Began as Editor-in-Chief of *The Pioneer*
 11. [A Letter to Freshmen](http://pioneer.cooper.edu/2015/09/14/letter-freshmen/) - *The Cooper Pioneer* - September 14, 2015
 12. [Interview with Acting Dean Stock](http://pioneer.cooper.edu/2015/09/14/interview-acting-dean-stock/) - *The Cooper Pioneer* - September 14, 2015
 13. [CSCU, Board of Trustee Settle Litigation, Sign Consent Decree](http://pioneer.cooper.edu/2015/09/14/cscu-board-trustees-settle-litigation-sign-consent-decree/) - *The Cooper Pioneer* - September 14, 2015
-14. [Nonstop Stops... To Chat with Bill Mea and the Presidential Search Committee](http://pioneer.cooper.edu/2015/09/28/nonstop-stops-chat-bill-mea-presidential-search-committee/) - *The Cooper Pioneer* - September 28, 2015
-15. [Cooper Fund Scholar Reception](http://pioneer.cooper.edu/2015/10/12/cooper-fund-scholar-reception/) - *The Cooper Pioneer* - September 28, 2015
-16. [New Gender Neutral Facilities Announced](http://pioneer.cooper.edu/2015/10/12/genderneutral-facilities-announced/) - *The Cooper Pioneer* - September 28, 2015
-
+14. [Nonstop Stops To Chat with Bill Mea and the Presidential Search Committee](http://pioneer.cooper.edu/2015/09/28/nonstop-stops-chat-bill-mea-presidential-search-committee/) - *The Cooper Pioneer* - September 28, 2015
+15. [Cooper Fund Scholar Reception](http://pioneer.cooper.edu/2015/10/12/cooper-fund-scholar-reception/) - *The Cooper Pioneer* - October 13, 2015
+16. [New Gender Neutral Facilities Announced](http://pioneer.cooper.edu/2015/10/12/genderneutral-facilities-announced/) - *The Cooper Pioneer* - October 13, 2015
+17. [Presidential Search Committee Hires Consultant](http://pioneer.cooper.edu/2015/11/02/presidential-search-committee-hires-consultant/) - *The Cooper Pioneer* - November 2, 2015
+18. [Faces of Cooper: Ryan Ronan](http://pioneer.cooper.edu/2015/11/02/faces-cooper-ryan-ronan/) - *The Cooper Pioneer* - November 2, 2015
+19. [Stop Yelling for One Second, Facebook is Toxic](http://pioneer.cooper.edu/2015/11/16/stop-yelling/) - *The Cooper Pioneer* - November 16, 2015
+20. [Alumni Trustee Election: Why Should Students Care?](http://pioneer.cooper.edu/2015/11/15/alumni-trustee-elections-students-care/) - *The Cooper Pioneer* - November 16, 2015
+21. [Alumni Trustee Election Results](http://pioneer.cooper.edu/2015/12/07/alumni-trustee-election-results/) - *The Cooper Pioneer* - December 7, 2015
+22. [In Simple Terms: Bill Mea on the Budget](http://pioneer.cooper.edu/2016/02/22/simple-terms-bill-mea-budget/) - *The Cooper Pioneer* - February 22, 2016
+23. [What Students Should Know About Future Financial Projections](http://pioneer.cooper.edu/2016/02/22/students-future-financial-projections/) - *The Cooper Pioneer* - February 22, 2016
+24. [An Evening with Joshua Allen](http://pioneer.cooper.edu/2016/04/04/2991/) - *The Cooper Pioneer* - April 4, 2016
