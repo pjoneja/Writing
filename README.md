@@ -1,8 +1,12 @@
 # Writing
 A collection of published pieces written by me
 
-1. [Speech at the Stakeholder's Breakfast](https://github.com/pjoneja/Writing/blob/master/Speech%20at%20Stakeholder's%20Breakfast.md) - *Jakarta International School* - November 9, 2013
-2. [Extended Essay: Flood Risk Management](https://github.com/pjoneja/Writing/blob/master/Extended%20Essay%20-%20Flood%20Risk%20Management.pdf) - *Jakarta International School* - May 2014
+1. [Right to Universal Healthcare - Chair's Research Report](https://github.com/pjoneja/Writing/blob/master/THIMUN%20-%20Right%20to%20Universal%20Healthcare%20-%20Chair's%20Research%20Report.pdf) - *The Hague International Model United Nations Qatar* - January 2013
+2. [Speech at the Stakeholder's Breakfast](https://github.com/pjoneja/Writing/blob/master/Speech%20at%20Stakeholder's%20Breakfast.md) - *Jakarta International School* - November 9, 2013
+3. [Geography Internal Assessment - Informal Sector in Jakarta](https://github.com/pjoneja/Writing/blob/master/Geography%20IA.pdf) - *Jakarta International School* - May 2014
+3. [Mathematics Internal Assessment - Bézier Curves](https://github.com/pjoneja/Writing/blob/master/Math%20IA.pdf) - *Jakarta International* - May 2014
+4. [Theory of Knowledge Essay](https://github.com/pjoneja/Writing/blob/master/Theory%20of%20Knowledge%20Essay.pdf) - *Jakarta International School* - May 2014
+3. [Extended Essay: Flood Risk Management](https://github.com/pjoneja/Writing/blob/master/Extended%20Essay%20-%20Flood%20Risk%20Management.pdf) - *Jakarta International School* - May 2014
 
 ### Writer at *The Pioneer* 
 
