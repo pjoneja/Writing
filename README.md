@@ -12,4 +12,14 @@ A collection of published pieces written by me
 7. [How Shakespeare Works](http://pioneer.cooper.edu/2015/02/21/shakespeare-works/) - *The Cooper Pioneer* - February 23, 2015
 8. [Student Rep to the Board of Trustees](http://pioneer.cooper.edu/2015/03/08/student-representative-board-trustees/) - *The Cooper Pioneer* - March 9, 2015
 9. [Interview with Malcolm King (EE'97), Board Trustee](http://pioneer.cooper.edu/2015/04/11/interview-malcolm-king-ee-97-board-trustee/) - *The Cooper Pioneer* - April 11, 2015
-10. [Proposed Overload Charge](http://pioneer.cooper.edu/2015/04/15/proposed-overload-charge/) - *The Cooper Pioneer* - April 11, 2015 --> edited by me
+10. [Proposed Overload Charge](http://pioneer.cooper.edu/2015/08/29/proposed-overload-charge/) - *The Cooper Pioneer* - April 11, 2015
+
+Began as Editor-in-Chief of *The Pioneer*
+
+11. [A Letter to Freshmen](http://pioneer.cooper.edu/2015/09/14/letter-freshmen/) - *The Cooper Pioneer* - September 14, 2015
+12. [Interview with Acting Dean Stock](http://pioneer.cooper.edu/2015/09/14/interview-acting-dean-stock/) - *The Cooper Pioneer* - September 14, 2015
+13. [CSCU, Board of Trustee Settle Litigation, Sign Consent Decree](http://pioneer.cooper.edu/2015/09/14/cscu-board-trustees-settle-litigation-sign-consent-decree/) - *The Cooper Pioneer* - September 14, 2015
+14. [Nonstop Stops... To Chat with Bill Mea and the Presidential Search Committee](http://pioneer.cooper.edu/2015/09/28/nonstop-stops-chat-bill-mea-presidential-search-committee/) - *The Cooper Pioneer* - September 28, 2015
+15. [Cooper Fund Scholar Reception](http://pioneer.cooper.edu/2015/10/12/cooper-fund-scholar-reception/) - *The Cooper Pioneer* - September 28, 2015
+16. [New Gender Neutral Facilities Announced](http://pioneer.cooper.edu/2015/10/12/genderneutral-facilities-announced/) - *The Cooper Pioneer* - September 28, 2015
+
